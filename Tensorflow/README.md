@@ -1,0 +1,1 @@
+The [Dockerfile](Dockerfile) contains a very simple Docker container with the support for tensorflow training. 
