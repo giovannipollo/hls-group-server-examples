@@ -1,0 +1,1 @@
+This folder contains general examples, when you have a requirements.txt file and you want to build a Docker container
